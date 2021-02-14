@@ -8,3 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# create dataframe using .csv
+titanic_df = pd.read_csv('passenger_data.csv')
+print(titanic_df.head())
+
