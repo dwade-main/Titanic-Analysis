@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb 14 07:18:31 2021
+
+@author: ghost
+"""
+# Author: David Wade
+# Email: davidwade1307@gmail.com
+# Project: Titanic Passenger Analysis with Pandas
+
+# Intent: Use functionality of Pandas, NumPy, and Matplotlib 
+# to analysis data from the Titanic Passenger List
+#
